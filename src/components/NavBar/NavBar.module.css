@@ -1,0 +1,16 @@
+.bg_nav {
+  background-color: #2c3e50;
+}
+
+.link_hover{
+    color: #fff !important;
+}
+.link_hover:hover {
+  background-color: #1abc9c;
+  color: #000 !important;
+}
+
+.toggle{
+    background-color: #1abc9c !important;
+    border-radius: 5px;
+}

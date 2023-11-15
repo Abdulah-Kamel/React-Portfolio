@@ -1,0 +1,15 @@
+.bg_main{
+    opacity: 0;
+    background-color: #1abc9ce1;
+    transition: opacity 0.5s;
+}
+.bg_main:hover{
+    opacity: 1;
+}
+.pointer{
+    cursor: pointer;
+}
+.text{
+    color: #1abc9ce1;
+    font-size: 3.5rem;
+}
